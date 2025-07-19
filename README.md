@@ -119,3 +119,5 @@ affect their resident numbers.
 To ensure optimal care and resource allocation, stakeholders and sales team should focus on fostering collaboration between ownership types. For-profit entities can be encouraged to maintain high-
 quality care standards despite their scale. Non-profits should receive support to continue their community-focused mission, while government facilities may benefit from consistent funding and stra-
 tegic partnerships to enhance their operations. By leveraging the strengths of each ownership type, stakeholders can improve overall care and service delivery for residents.
+
+**3. Total Number of Patients and Nurses Hours by Provider Names:**
