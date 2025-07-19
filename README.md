@@ -54,9 +54,9 @@ interpret.
 
 4. **Total States Count:** Nursing home operations span 52 states, highlighting nationwide coverage and the scope of data collected.
 
-INSIGHTS AND RECOMMENDATIONS:
+**INSIGHTS AND RECOMMENDATIONS:**
 
-1. Sum of Number of Certified Beds by Ownership Type:
+**1. Sum of Number of Certified Beds by Ownership Type:**
 
 <img width="1108" height="530" alt="image" src="https://github.com/user-attachments/assets/b0b18231-d21a-47ee-a97a-d1f6c50c46bd" />
 
@@ -89,4 +89,8 @@ crucial role in underserved areas, and stakeholders can partner with them to enh
 investment in different market segments, while continuously monitoring trends in bed distribution and ownership allows stakeholders to adapt their strategies proactively. These actions 
 collectively foster improved patient care and operational efficiency.
 
-2. Sum of Resident Census MDS And Their Ownership Type:
+**2. Sum of Resident Census MDS And Their Ownership Type:**
+
+
+<img width="1102" height="530" alt="image" src="https://github.com/user-attachments/assets/ee503c96-b93d-4892-8d70-ba2355f24cba" />
+
