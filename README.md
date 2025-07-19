@@ -12,7 +12,7 @@ The Centers for Medicare & Medicaid Services (CMS) provides publicly available d
 
 **Correlate Staffing with Resident Census:**
 
-* Analyze the relationship between daily resident census (patient count) and the staffing hours provided, ensuring that resources align with patient care needs.
+* Analyze the relationship between daily resident census (patient count) and the staffing hours provided, ensuring that resources align with patient care needs
 
 **Identify Anomalies:**
 
@@ -29,3 +29,13 @@ The Centers for Medicare & Medicaid Services (CMS) provides publicly available d
 **Monitor Compliance with Regulations:**
 
 * Check if facilities meet CMS requirements for submitting payroll-based data on direct care staffing and maintaining consistent care standards.
+
+**METHODOLOGY:**
+
+* Data Sourcing – data.cms.gov
+
+* Data cleaning – Power BI: Power BI was used for the loading, cleaning, analysis and visualization. It provides an interactive interface to create reports, dashboards, and visualizations that help uncover insights and trends in the data.
+
+**Cleaning:** This involved transforming the data, removing duplicates, replacing Null values, checking for inconsistencies and correcting them, renaming the column headers properly etc. 
+**Data Analysis:** Using DAX (Data Analysis Expressions) functions and calculations to perform complex data analysis and derive meaningful insights from the data.
+**Visualization:** Creating various visualizations, such as bar charts, pie charts, line charts, scatter plots, and tree maps, to represent the data visually and make it easier to understand and interpret. 
