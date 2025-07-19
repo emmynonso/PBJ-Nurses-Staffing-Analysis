@@ -94,3 +94,28 @@ collectively foster improved patient care and operational efficiency.
 
 <img width="1102" height="530" alt="image" src="https://github.com/user-attachments/assets/ee503c96-b93d-4892-8d70-ba2355f24cba" />
 
+The chart above provides a detailed breakdown of the Resident Census MDS across various ownership types, highlighting the distribution of residents in nursing homes based on ownership categories.
+It categorizes ownership into For-Profit, Government, and Non-Profit entities, with subcategories for each type.
+
+**HOW I ANALYZED THIS DATA**
+
+To analyze the data, I imported the dataset into Power BI and created a table chart to effectively visualize the distribution of Resident Census MDS across various ownership types. By using a table
+chart, I was able to categorize the data into ownership groups such as For-Profit, Non-Profit, and Government entities. Within these main categories, I further analyzed subcategories, including 
+corporations, partnerships, limited liability companies, and state or local government facilities. I calculated the total resident census for each ownership type by aggregating the values in the 
+Resident Census MDS column. 
+
+This enabled me to see which ownership types contributed the most to the overall resident count. For example, For-Profit Corporations and Limited Liability Companies had the highest totals, while 
+subcategories within government entities had comparatively lower counts.
+
+**WHAT I UNCOVERED:**
+
+For-profit corporations and limited liability companies show the highest sums of Resident Census MDS, indicating their significant role in accommodating residents. Non-profit corporations and church-
+related organizations also contribute substantially, while government-owned facilities, such as state and hospital district entities, have varying levels of resident census. This distribution could be influenced by several factors. For-profit organizations often prioritize scalability and profitability, enabling them to operate larger facilities with higher resident capacities. Non-profit entities
+focus on community care and service, which drives their substantial contributions. Government facilities, on the other hand, may face funding limitations or operate in underserved areas, which can 
+affect their resident numbers.
+
+**RECOMMENDATIONS**
+
+To ensure optimal care and resource allocation, stakeholders and sales team should focus on fostering collaboration between ownership types. For-profit entities can be encouraged to maintain high-
+quality care standards despite their scale. Non-profits should receive support to continue their community-focused mission, while government facilities may benefit from consistent funding and stra-
+tegic partnerships to enhance their operations. By leveraging the strengths of each ownership type, stakeholders can improve overall care and service delivery for residents.
