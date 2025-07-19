@@ -11,12 +11,21 @@ The Centers for Medicare & Medicaid Services (CMS) provides publicly available d
 * Identify trends and patterns in staffing levels across various facilities, states, or ownership types.
 
 **Correlate Staffing with Resident Census:**
-Analyze the relationship between daily resident census (patient count) and the staffing hours provided, ensuring that resources align with patient care needs.
-Identify Anomalies:
-Detect outliers or facilities with unusually high or low staffing levels compared to their resident census, which might indicate inefficiencies or potential care gaps.
-Support Transparency and Accountability:
-Use the findings to help stakeholders understand the accuracy and effectiveness of reported staffing data and align it with CMS standards.
-Guide Resource Allocation:
-Provide actionable insights for improving staffing distribution to optimize patient care and facility operations.
-Monitor Compliance with Regulations:
-Check if facilities meet CMS requirements for submitting payroll-based data on direct care staffing and maintaining consistent care standards.
+
+* Analyze the relationship between daily resident census (patient count) and the staffing hours provided, ensuring that resources align with patient care needs.
+
+**Identify Anomalies:**
+
+* Detect outliers or facilities with unusually high or low staffing levels compared to their resident census, which might indicate inefficiencies or potential care gaps.
+
+**Support Transparency and Accountability:**
+
+* Use the findings to help stakeholders understand the accuracy and effectiveness of reported staffing data and align it with CMS standards.
+
+**Guide Resource Allocation:**
+
+* Provide actionable insights for improving staffing distribution to optimize patient care and facility operations.
+
+**Monitor Compliance with Regulations:**
+
+* Check if facilities meet CMS requirements for submitting payroll-based data on direct care staffing and maintaining consistent care standards.
