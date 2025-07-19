@@ -10,7 +10,7 @@ The Centers for Medicare & Medicaid Services (CMS) provides publicly available d
 **Understand Staffing Patterns:**
 * Identify trends and patterns in staffing levels across various facilities, states, or ownership types.
 
-# Correlate Staffing with Resident Census:
+**Correlate Staffing with Resident Census:**
 Analyze the relationship between daily resident census (patient count) and the staffing hours provided, ensuring that resources align with patient care needs.
 Identify Anomalies:
 Detect outliers or facilities with unusually high or low staffing levels compared to their resident census, which might indicate inefficiencies or potential care gaps.
